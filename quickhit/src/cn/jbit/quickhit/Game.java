@@ -3,7 +3,7 @@ package cn.jbit.quickhit;
 import java.util.Random;
 /**
  * 游戏类。
- * @author 北大青鸟
+ * @author 北大青
  */
 public class Game {
 	private Player player;// 玩家
